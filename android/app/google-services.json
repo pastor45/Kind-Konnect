@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "964639207525",
+    "project_id": "thevolunteeringapp",
+    "storage_bucket": "thevolunteeringapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964639207525:android:ab56295b16f53bbe64568c",
+        "android_client_info": {
+          "package_name": "com.example.voluntariado_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964639207525-6s9c6fnfbs6unfquosa00ll2cib15fmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.voluntariado_app",
+            "certificate_hash": "1389f45f189df0d29cf9f22335f44f5dab70cd41"
+          }
+        },
+        {
+          "client_id": "964639207525-hri2ajh952fpbvme712vke4ha9uei943.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxrVx9Oou4H67nbwkBNSQj1UGx5RrCAf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964639207525-hri2ajh952fpbvme712vke4ha9uei943.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "964639207525-a6ofvimm5vjdndk8h8f3rn19qntb6ku1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.voluntariadoApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
